@@ -1,1 +1,4 @@
-# Sentiment-Analysis-of-Klitih-Phenomenon-in-Yogyakarta-on-Social-Media-using-BERT
+# Classification of Klitih Phenomenon in Yogyakarta on Social Media using BERT
+
+## Description:
+The phenomenon of “Klitih” in Yogyakarta, which is often associated with youth violence, has attracted significant attention on social media. This study aims to classify social media content related to Klitih using Bidirectional Encoder Representations from Transformers (BERT), a state-of-the-art deep learning model for natural language processing. By analyzing posts and comments, the model categorizes content into high-risk and safe classes. The dataset was processed and fine-tuned with BERT to capture contextual meaning and improve classification accuracy. The results show that BERT effectively identifies and classifies Klitih-related discourse, providing valuable insights for authorities to address the issue more proactively.
